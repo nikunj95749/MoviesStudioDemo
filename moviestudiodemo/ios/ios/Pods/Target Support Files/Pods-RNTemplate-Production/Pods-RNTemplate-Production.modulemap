@@ -1,0 +1,6 @@
+module Pods_RNTemplate_Production {
+  umbrella header "Pods-RNTemplate-Production-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_RNTemplate_Staging {
+  umbrella header "Pods-RNTemplate-Staging-umbrella.h"
+
+  export *
+  module * { export * }
+}
